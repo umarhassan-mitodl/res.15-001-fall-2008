@@ -1,0 +1,66 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Accounting"
+    ],
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "legacy_uid": "d622bd1c-bae3-713c-60db-c83bb744df9d",
+  "instructors": {
+    "content": [
+      "c9325e78-1760-933f-7bdc-a9df16b71044"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5b5b4bed-2390-f371-1012-33a9150022b3",
+    "website": "res-15-001-mit-sloan-learningedge-fall-2008"
+  },
+  "course_title": "MIT Sloan Teaching Resources Library",
+  "hide_download": true,
+  "course_description": "Sloan's [Teaching Resources Library](https://mitsloan.mit.edu/teaching-resources-library/about-teaching-resources-library) provides open access to case studies and management simulations for management educators and students worldwide. This collection of teaching materials and games focuses on areas in which Sloan's innovative research and teaching are on the cutting edge, including action learning, entrepreneurship, leadership and ethics, operations management, strategy, sustainability, and system dynamics.\n\nFormerly known as *LearningEdge*, and *MIT Sloan Teaching Innovation Resources (MSTIR)*.\n\n[Online Publication](https://mitsloan.mit.edu/teaching-resources-library/about-teaching-resources-library)",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.15-001",
+  "course_image_thumbnail": {
+    "content": "ab44559e-a0ef-4612-25c9-c9e381b7af2b",
+    "website": "res-15-001-mit-sloan-learningedge-fall-2008"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [],
+  "site_uid": "0ba575d7-4650-42fe-be29-376a1873dfd9",
+  "site_short_id": "res.15-001-fall-2008",
+  "site_url_path": "courses/res-15-001-mit-sloan-learningedge-fall-2008",
+  "title": "Course Metadata"
+}
