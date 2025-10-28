@@ -47,7 +47,7 @@
   },
   "course_title": "MIT Sloan Teaching Resources Library",
   "hide_download": true,
-  "course_description": "Sloan's [Teaching Resources Library](https://mitsloan.mit.edu/teaching-resources-library/about-teaching-resources-library) provides open access to case studies and management simulations for management educators and students worldwide. This collection of teaching materials and games focuses on areas in which Sloan's innovative research and teaching are on the cutting edge, including action learning, entrepreneurship, leadership and ethics, operations management, strategy, sustainability, and system dynamics.\n\nFormerly known as *LearningEdge*, and *MIT Sloan Teaching Innovation Resources (MSTIR)*.\n\n[Online Publication](https://mitsloan.mit.edu/teaching-resources-library/about-teaching-resources-library)",
+  "course_description": "Sloan's {{% resource_link \"9edd9acd-11d5-45ba-a685-6aa1b2f9e013\" \"Teaching Resources Library\" %}} provides open access to case studies and management simulations for management educators and students worldwide. This collection of teaching materials and games focuses on areas in which Sloan's innovative research and teaching are on the cutting edge, including action learning, entrepreneurship, leadership and ethics, operations management, strategy, sustainability, and system dynamics.\n\nFormerly known as *LearningEdge*, and *MIT Sloan Teaching Innovation Resources (MSTIR)*.\n\n{{% resource_link \"9edd9acd-11d5-45ba-a685-6aa1b2f9e013\" \"Online Publication\" %}}",
   "department_numbers": [
     "15"
   ],
@@ -57,7 +57,6 @@
     "content": "ab44559e-a0ef-4612-25c9-c9e381b7af2b",
     "website": "res-15-001-mit-sloan-learningedge-fall-2008"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "0ba575d7-4650-42fe-be29-376a1873dfd9",
   "site_short_id": "res.15-001-fall-2008",
